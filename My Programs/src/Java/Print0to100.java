@@ -1,0 +1,14 @@
+package Java;
+
+public class Print0to100 {
+	public static void main(String[] args) {
+
+		for(int i = 0; i<=100;i++ ) {
+		
+			if(i%2==0)
+				System.out.print(i + " ");
+		}
+	}
+}
+
+//Write program to print 0 to 100 even  number 
